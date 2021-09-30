@@ -13,7 +13,7 @@ We are making a game!
 ## Team information
 
 Peizhao Mei <br>
-* Pitt CS,2025 <br>
+* Pitt CS, 2025 <br>
 * pem70@pitt.edu<br>
 
 Ruoheng XU<br>
