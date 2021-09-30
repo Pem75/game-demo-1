@@ -1,6 +1,7 @@
 # game-demo-1
-We are making a game!
 -------
+We are making a game!
+------
 ## Project description
 ------
 * We plan to use Unreal Engine 4 to create a simple demo of a souls-like action game in this project.    <br>
