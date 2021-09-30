@@ -1,5 +1,7 @@
 # game-demo-1
 -------
+## 
+---------
 We are making a game!
 ------
 ## Project description
