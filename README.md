@@ -15,3 +15,7 @@ We are making a game!
 Peizhao Mei <br>
 * Pitt CS,2025 <br>
 * pem70@pitt.edu<br>
+
+Ruoheng XU<br>
+* Pitt Undecided, 2025 <br>
+* rux28@pitt.edu
