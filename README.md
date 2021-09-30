@@ -9,4 +9,6 @@
 *  Consedering we are rookies and to reduce complicated work, we would use free models from the Internet and pruchased models.
 ## Team information
 -----
-Peizhao Mei
+Peizhao Mei <br>
+* Pitt CS,2025 <br>
+* pem70@pitt.edu<br>
