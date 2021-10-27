@@ -9,7 +9,7 @@ We are making a game!
 * We are inspried by "Sekiro: Shadows Die Twice." <br>
 *  Our goal is to achieve a realistic and intensive battle between the player and AI enemies.<br>
 *  We attempt to solve issues such as striking feeling, designing Ai and motion consistency.<br>   
-*  Consedering we are rookies and to reduce work amount, we would use free models from the Internet and pruchased models.
+*  Consedering we are rookies and to reduce work amount, we would use free models from the Internet and purchased models.
 ## Team information
 
 Peizhao Mei <br>
