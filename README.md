@@ -12,10 +12,11 @@ We are making a game!
 *  Consedering we are rookies and to reduce work amount, we would use free models from the Internet and purchased models.
 ## Team information
 
+Ruoheng Xu<br>
+* Pitt Undecided, 2025 <br>
+* rux28@pitt.edu
+
 Peizhao Mei <br>
 * Pitt CS, 2025 <br>
 * pem70@pitt.edu<br>
 
-Ruoheng XU<br>
-* Pitt Undecided, 2025 <br>
-* rux28@pitt.edu
