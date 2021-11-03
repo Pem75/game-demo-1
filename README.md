@@ -11,6 +11,7 @@ Download link:https://pitt-my.sharepoint.com/:u:/g/personal/pem70_pitt_edu/EVsqD
 *  Our goal is to achieve a realistic and intensive battle between the player and AI enemies.<br>
 *  We attempt to solve issues such as striking feeling, designing Ai and motion consistency.<br>   
 *  Consedering we are rookies and to reduce work amount, we would use free models from the Internet and purchased models.
+*  Please use the link to download the game. We are not allowed to upload it to Gighub since it is too big.
 ## Team information
 
 Ruoheng Xu<br>
